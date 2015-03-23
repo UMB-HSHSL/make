@@ -1,0 +1,7 @@
+<?php
+
+// defaults to Ldap_authenticator
+// $config['authenticator'] = 'Ldap_authenticator';
+
+// array of usernames
+$config['authorized_users'] = array();
